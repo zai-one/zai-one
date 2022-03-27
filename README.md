@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zai-one
+- 👀 I’m interested in SEO & Context advertising
+- 🌱 I’m currently learning OpenAI
+- 💞️ I’m looking to collaborate on OpenAI
+- 📫 How to reach me mail me alexzascherinsky@gmail.com
