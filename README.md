@@ -1,17 +1,17 @@
 # Aleksandr · [@zai-one](https://github.com/zai-one)
 
-Building **remote MCP servers** — URL-based Model Context Protocol endpoints for AI clients.
+Building **MCP servers** and AI tooling for Grok, Codex, and friends.
 
 ## Projects
 
 | Repo | What |
 |------|------|
-| [**grok-remote-mcp**](https://github.com/zai-one/grok-remote-mcp) | Remote MCP for Grok (HTTP / SSE) |
-| [**codex-remote-mcp**](https://github.com/zai-one/codex-remote-mcp) | Remote MCP for Codex (HTTP / SSE) |
+| [**grok-mcp**](https://github.com/zai-one/grok-mcp) | MCP server for Grok |
+| [**codex-mcp**](https://github.com/zai-one/codex-mcp) | MCP server for Codex |
 
 ## Stack
 
-- [MCP](https://modelcontextprotocol.io/) · remote transport (URL)
+- [Model Context Protocol](https://modelcontextprotocol.io/)
 - TypeScript / Node
 - xAI Grok · OpenAI Codex
 
