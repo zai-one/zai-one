@@ -18,7 +18,6 @@ Building **MCP servers** and AI tooling for Grok, Codex, and friends.
 ## Links
 
 - Site: [zai.one](https://zai.one)
-- Mail: alexzascherinsky@gmail.com
 
 ---
 
