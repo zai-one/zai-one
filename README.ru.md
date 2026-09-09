@@ -21,18 +21,18 @@
 | Сервис | Для чего пригодится | Перейти |
 | --- | --- | --- |
 | **Yandex** | Директ, Метрика, Search API, Wordstat и Вебмастер в одном подключении: реклама, анализ трафика и поисковые исследования. | [yandex-mcp](https://github.com/zai-one/yandex-mcp) |
-| **Keys.so** | Видимость сайта, ключевые слова, конкуренты, объявления и ссылки по отчётам Keys.so. | [keysso-mcp](https://github.com/zai-one/keysso-mcp) |
-| **Topvisor** | Позиции сайта и управление проектами, запросами и регионами для SEO-мониторинга. | [topvisor-mcp](https://github.com/zai-one/topvisor-mcp) |
-| **Arsenkin** | SEO-исследования с предварительной оценкой стоимости и сохранёнными результатами для дальнейшего анализа. | [arsenkin-mcp](https://github.com/zai-one/arsenkin-mcp) |
-| **Roistat** | Аналитика маркетинга и продаж, заказы, заявки и звонки в разрешённых проектах. | [roistat-mcp](https://github.com/zai-one/roistat-mcp) |
+| **Keys.so** | Изучение видимости, запросов и конкурентов; сравнение доменов и отчёты JSON/CSV с источниками данных. | [keysso-mcp](https://github.com/zai-one/keysso-mcp) |
+| **Topvisor** | Сравнение сохранённых позиций по запросам и URL; оценка стоимости и явное подтверждение новой проверки. | [topvisor-mcp](https://github.com/zai-one/topvisor-mcp) |
+| **Arsenkin** | Запуск и отслеживание SEO-задач; таблицы выдачи и кластеров из сохранённых результатов без повторной оплаты запуска. | [arsenkin-mcp](https://github.com/zai-one/arsenkin-mcp) |
+| **Roistat** | Аналитика маркетинга и продаж; отчёты с параметрами периодов, атрибуцией, итогами провайдера и CSV. | [roistat-mcp](https://github.com/zai-one/roistat-mcp) |
 | **Telegram Ads** | Создание и управление объявлениями, таргетингом и статистикой в кабинетах Gram (TON). | [telegram-ads-mcp](https://github.com/zai-one/telegram-ads-mcp) |
 
 ### Общение, доступы и разработка
 
 | Сервис | Для чего пригодится | Перейти |
 | --- | --- | --- |
-| **Telegram** | Поиск и чтение переписки, работа с сообщениями и разрешённые действия от вашего Telegram-аккаунта. | [telegram-mcp](https://github.com/zai-one/telegram-mcp) |
-| **Passbolt** | Поиск записей в хранилище и использование выбранных доступов через настроенные серверные обработчики. Пароли не возвращаются в ответе MCP. | [passbolt-mcp](https://github.com/zai-one/passbolt-mcp) |
+| **Telegram** | Чтение переписки, разрешённая отправка файлов и голосовых; опрос выбранных чатов с подтверждением обработки после перезапуска. | [telegram-mcp](https://github.com/zai-one/telegram-mcp) |
+| **Passbolt** | Поиск записей, диагностика локальной настройки и использование выбранных доступов через настроенные обработчики без возврата паролей. | [passbolt-mcp](https://github.com/zai-one/passbolt-mcp) |
 | **Codex** | Управление задачами разработки, целями, ревью и расписаниями через установленный Codex app-server. | [codex-mcp](https://github.com/zai-one/codex-mcp) |
 | **Grok** | Передача разработки Grok CLI в отдельном рабочем дереве Git с отчётом об изменениях и результатах тестов. | [grok-build-mcp](https://github.com/zai-one/grok-build-mcp) |
 
