@@ -1,24 +1,51 @@
-# Aleksandr · [@zai-one](https://github.com/zai-one)
+<div align="center">
 
-Building **MCP servers** and AI tooling for Grok, Codex, and friends.
+# ZAI.ONE
 
-## Projects
+### Connect AI to the work you already do.
 
-| Repo | What |
-|------|------|
-| [**grok-mcp**](https://github.com/zai-one/grok-mcp) | MCP server for Grok |
-| [**codex-mcp**](https://github.com/zai-one/codex-mcp) | MCP server for Codex |
+**Websites · SEO · Advertising · Analytics · AI integrations**
 
-## Stack
+[Website](https://zai.one) &nbsp; · &nbsp; [Talk on Telegram](https://t.me/zai_one) &nbsp; · &nbsp; [Русский](README.ru.md)
 
-- [Model Context Protocol](https://modelcontextprotocol.io/)
-- TypeScript / Node
-- xAI Grok · OpenAI Codex
+</div>
 
-## Links
+**ZAI.ONE is a digital agency.** We build websites and work on search visibility, advertising and analytics. Here we publish MCP servers: tools that let an AI assistant work with the services your team already uses.
 
-- Site: [zai.one](https://zai.one)
+Ask for a traffic report, explore search demand, work with Telegram or delegate a coding task — from a compatible MCP client. Pick the integration you need, install it on your machine or server, and connect your own account. Each repository explains its requirements, available operations and limits.
 
----
+## Find your integration
 
-*Clean slate · 2026*
+### Marketing, search and analytics
+
+| Service | What it helps you do | Start here |
+| --- | --- | --- |
+| **Yandex** | Work with Direct, Metrika, Search API, Wordstat and Webmaster from one connection. Useful for advertising, traffic analysis and search research. | [yandex-mcp](https://github.com/zai-one/yandex-mcp) |
+| **Keys.so** | Explore a domain’s search visibility, keywords, competitors, ads and backlinks using Keys.so reports. | [keysso-mcp](https://github.com/zai-one/keysso-mcp) |
+| **Topvisor** | Read rankings and manage the projects, keywords and regions behind your SEO monitoring. | [topvisor-mcp](https://github.com/zai-one/topvisor-mcp) |
+| **Arsenkin** | Run SEO research jobs with explicit cost estimates and saved results for later analysis. | [arsenkin-mcp](https://github.com/zai-one/arsenkin-mcp) |
+| **Roistat** | Explore marketing and sales analytics, orders, leads and calls for the projects you allow. | [roistat-mcp](https://github.com/zai-one/roistat-mcp) |
+| **Telegram Ads** | Create and manage ads, targeting and statistics in Gram (TON) Telegram Ads accounts. | [telegram-ads-mcp](https://github.com/zai-one/telegram-ads-mcp) |
+
+### Communication, credentials and development
+
+| Service | What it helps you do | Start here |
+| --- | --- | --- |
+| **Telegram** | Search and read conversations, work with messages and run permitted actions through your Telegram account. | [telegram-mcp](https://github.com/zai-one/telegram-mcp) |
+| **Passbolt** | Find vault entries and use selected credentials through configured server-side handlers, without returning passwords in the MCP response. | [passbolt-mcp](https://github.com/zai-one/passbolt-mcp) |
+| **Codex** | Manage coding tasks, goals, reviews and scheduled work through an installed Codex app-server. | [codex-mcp](https://github.com/zai-one/codex-mcp) |
+| **Grok** | Delegate coding to Grok CLI in a Git worktree and receive a bounded change report with test results. | [grok-build-mcp](https://github.com/zai-one/grok-build-mcp) |
+
+## From repository to first result
+
+1. **Choose a service.** Its English and Russian README explain the use cases; installation instructions show the required account or CLI.
+2. **Configure access locally.** Keep credentials out of chat and GitHub Issues. The repository describes the service’s access controls and any paid operations.
+3. **Connect your MCP client.** Follow the configuration example, run the setup check, and try the first request from the README.
+
+Use tagged releases where provided. Each repository contains its code and tests; check its release notes and third-party notices where provided. These are independent integrations; they do not require a ZAI.ONE agency subscription. Provider access, API quotas and any model usage are your own.
+
+## Build something with us
+
+Need a website, SEO, advertising, analytics or help connecting AI to your team’s workflows? **[Tell us what you want to achieve on Telegram](https://t.me/zai_one)** or explore **[zai.one](https://zai.one)**.
+
+For a bug or feature request, use the relevant repository’s Issues. If a tool helps, a ⭐ makes it easier for others to discover. Usage and modification rights depend on each repository’s license; the catalog does not grant additional rights. These integrations are independently developed and are not official provider products.
