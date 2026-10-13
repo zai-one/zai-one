@@ -33,7 +33,6 @@ Ask for a traffic report, explore search demand, work with Telegram or delegate 
 | --- | --- | --- |
 | **Telegram** | Read conversations, send permitted files and voice notes, and poll selected chats with acknowledgment that survives a restart. | [telegram-mcp](https://github.com/zai-one/telegram-mcp) |
 | **Passbolt** | Find vault entries, diagnose local setup and use selected credentials through configured handlers without returning passwords. | [passbolt-mcp](https://github.com/zai-one/passbolt-mcp) |
-| **Codex** | Manage coding tasks, goals, reviews and scheduled work through an installed Codex app-server. | [codex-mcp](https://github.com/zai-one/codex-mcp) |
 | **Grok** | Delegate coding to Grok CLI in a Git worktree and receive a bounded change report with test results. | [grok-build-mcp](https://github.com/zai-one/grok-build-mcp) |
 
 ## From repository to first result
